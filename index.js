@@ -6,5 +6,6 @@ class name {
 
 }
 function EliminarNombre(nombre) {
-    console.log()
+    console.log("se ha eliminado el nombre" + nombre)
 }
+EliminarNombre("Carmen")

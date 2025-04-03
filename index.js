@@ -1,6 +1,7 @@
 class name {
-    constructor(name) {
+    constructor(name,apellido) {
         this.name = name
+        this.apellido = apellido
     }
    
 

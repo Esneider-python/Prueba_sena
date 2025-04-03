@@ -9,3 +9,9 @@ function EliminarNombre(nombre) {
     console.log("se ha eliminado el nombre" + nombre)
 }
 EliminarNombre("Carmen")
+
+class Prueba {
+    constructor(parameters) {
+        
+    }
+}
